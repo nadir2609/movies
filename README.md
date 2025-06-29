@@ -78,9 +78,3 @@ The dataset contains metadata for multiple movies. Each row represents one movie
 * The **United States** dominated the movie production market in 1980.
 
 ---
-
-This project is open-source and available under the MIT License.
-
----
-
-If you'd like help generating visuals, charts, or the `requirements.txt`, feel free to ask!
